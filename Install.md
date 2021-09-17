@@ -6,7 +6,8 @@ M1 Mac
 miniforge(=conda)
 
 # Library
-torch, torchvision
-
+'''
 % conda create -n "lm" python==3.8
 % conda install pytorch-cpu torchvision-cpu -c anaconda
+% pip3 install matplotlib jupyter
+'''
