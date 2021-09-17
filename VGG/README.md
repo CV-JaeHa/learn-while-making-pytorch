@@ -9,15 +9,14 @@ ImageNet 데이터셋은 스탠퍼드 대학교에서 인터넷 화상을 수집
 VGG-16 모델은 2014년 ILSVRC에서 2위를 차지한 합성곱 신경망이다. 옥스퍼드 대학교의 VGG팀이 16층으로 구성한 모델이라 VGG-16이라고 불린다.
 
 # How to Data Install
-'''
+```
 # learn-while-making-pytorch 파일에서 실행합니다.
 % git clone https://github.com/YutaroOgawa/pytorch_advanced.git
 % ipython3 pytorch_advanced/1_image_classification/make_folders_and_data_downloads.ipynb
 % cp pytorch_advanced/1_image_classification/data/goldenretriever-3724972_640.jpg VGG/data/
 % cp -r data/ VGG/data/ && rm -rf data
-'''
+```
 
 # Reference
-(저자의 깃허브)[https://github.com/YutaroOgawa/pytorch_advanced]
-
-(코드)[https://www.hanbit.co.kr/src/10460]
+[저자의 깃허브](https://github.com/YutaroOgawa/pytorch_advanced) </br>
+[코드](https://www.hanbit.co.kr/src/10460)
