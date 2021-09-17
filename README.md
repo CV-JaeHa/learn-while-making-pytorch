@@ -5,7 +5,7 @@
 Please check Installation procedure in [Install.md](https://github.com/CV-JaeHa/learn-while-making-pytorch/blob/main/Install.md)
 
 # Table of Contents
-[1. VGG]() </br>
+[1. VGG](https://github.com/CV-JaeHa/learn-while-making-pytorch/tree/main/VGG) </br>
 
 # Reference
-[만들면서 배우는 파이토치 딥러닝12가지 모델로 알아보는 딥러닝 응용법](http://www.yes24.com/Product/Goods/102931114)
+[만들면서 배우는 파이토치 딥러닝 : 12가지 모델로 알아보는 딥러닝 응용법](http://www.yes24.com/Product/Goods/102931114)
