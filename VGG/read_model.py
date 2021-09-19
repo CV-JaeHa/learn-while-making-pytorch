@@ -1,12 +1,5 @@
 # Import Library
-import numpy as np
-import json
-from PIL import Image
-import matplotlib.pyplot as plt
-
-import torch
-import torchvision
-from torchvision import models, transforms
+from torchvision import models
 
 # 파이토치 버전 확인
 # print(f"Pytorch Version : {torch.__version__} | Torchvision Version : {torchvision.__version__}")
