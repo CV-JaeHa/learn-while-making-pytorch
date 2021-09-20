@@ -1,15 +1,8 @@
 # Import Library
 import numpy as np
-import json
 from PIL import Image
 import matplotlib.pyplot as plt
-
-import torch
-import torchvision
-from torchvision import models, transforms
-
-# Import File
-import read_model as md
+from torchvision import transforms
 
 
 # 입력 화상의 전처리 클래스
